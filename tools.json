@@ -1,4 +1,8 @@
 {
     "tools": {
+        "DuckDuckGo": "https://github.com/TransformerOptimus/SuperAGI-Tools/tree/main/DuckDuckGo",
+        "notion": "https://github.com/TransformerOptimus/SuperAGI-Tools/tree/main/notion",
+        "ricai_codestore_tool": "https://github.com/liskovich/ricai_codestore_tool",
+        "ricai_unittestgen_tool": "https://github.com/liskovich/ricai_unittestgen_tool"
     }
 }

@@ -10,7 +10,7 @@ def parse_github_url(github_url):
     parts = github_url.split('/')
     owner = parts[3]
     repo = parts[4]
-    branch = "main"
+    branch = "master" # main
     return f"{owner}/{repo}/{branch}"
 
 
